@@ -1,0 +1,23 @@
+!DOCTYPE html>
+<html>
+    <head>       
+        <meta charset="utf-8">
+        <title>peliculas y actores y directores</title>
+    </head>
+    <body>
+<ol>
+
+<li value="Erase una vez en Hollywood">.</li>
+
+
+<li>"Director Quentin Tarantino"</li>
+
+<li>"Actores Brad Pitt"</li>
+<li>"Actores Leonardo Dicaprio"</li>
+<li>"Actores BMargot Robbie"</li>
+
+
+</ol>
+
+</body>
+</html>
